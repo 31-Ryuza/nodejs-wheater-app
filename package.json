@@ -6,13 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/31-Ryuza/nodejs-wheater-app.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/31-Ryuza/nodejs-wheater-app/issues"
+  },
+  "homepage": "https://github.com/31-Ryuza/nodejs-wheater-app#readme",
   "dependencies": {
     "express": "^4.17.3",
     "hbs": "^4.2.0",
-    "heroku": "^7.59.2",
     "request": "^2.88.0"
   }
 }
